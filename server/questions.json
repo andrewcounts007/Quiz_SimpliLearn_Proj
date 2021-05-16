@@ -1,0 +1,35 @@
+[
+    {
+        "question": "Who you gonna call?",
+        "type": "1",
+        "options": [
+            "Men In Black",
+            "Sam and Dean Winchester",
+            "Ghost Busters",
+            "Luigi"
+        ],
+        "answer": "Ghost Busters"
+    },
+    {
+        "question": "What is the airspeed velocity of an unladen swallow?",
+        "type": "2",
+        "options": [
+            "Ummm...I don't know.",
+            "What do you mean, an African or European swallow?",
+            "24 mph",
+            "Skip this question, it's dumb anyway."
+        ],
+        "answer": "What do you mean, an African or European swallow?"
+    },
+    {
+        "question": "Why is life like a box of chocoletes?",
+        "type": "3",
+        "options": [
+            "You never know what you are going to get.",
+            "stupid is what stupid does.",
+            "Anyway, like I was sayin’, shrimp is the fruit of the sea. You can barbecue it, boil it, broil it, bake it, saute it. There’s shrimp-kabobs, shrimp creole, shrimp gumbo. Pan fried, deep fried, stir-fried. There’s pineapple shrimp, lemon shrimp, coconut shrimp, pepper shrimp, shrimp soup, shrimp stew, shrimp salad, shrimp and potatoes, shrimp burger, shrimp sandwich. That, that’s about it.",
+            "RUN, FOREST! RUN!!"
+        ],
+        "answer": "You never know what you are going to get."
+    }
+]

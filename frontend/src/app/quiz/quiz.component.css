@@ -1,0 +1,35 @@
+h1 {
+    color: rgb(40, 40, 194);
+    text-shadow: 1px 1px red;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+body {
+    padding-top: 30px;
+    padding-bottom: 550px;
+    background-color: bisque;
+    background-size: cover;
+    text-align: center;
+    
+}
+#question{
+    padding-top: 80px;
+    font-size: 45px;
+    font-weight: bold;
+}
+#options{
+    padding-top: 80px;
+    display:block;
+    margin-left: 35%;
+    font-size: 45px;
+    
+}
+#submitBtn {
+    margin-left: 25px;
+}
+
+#nxtBtn {
+    margin-left: 750px;
+
+}
